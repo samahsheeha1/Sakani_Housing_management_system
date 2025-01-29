@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216615461328",
+    "project_id": "sakani-3ddbb",
+    "storage_bucket": "sakani-3ddbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216615461328:android:19c95dd2ec890a69b619d5",
+        "android_client_info": {
+          "package_name": "com.example.sakani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHRtLC1fq8lcG5srVoZ055KaSM8kJNb3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
